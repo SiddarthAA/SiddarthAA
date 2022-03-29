@@ -10,7 +10,7 @@ I'm Siddartha A Y, I'm a School Student 👨‍💻 who is passionate about mobi
 - 🔭 I’m currently working on GUI using Python
 - 🌱 I’m currently learning Python
 - 💬 Ask me about: tech, memes, reddit
-- ⚡ Languages: Python, Https.
+- ⚡ Languages: Python, HTML, CSS, JS
 
 
 > 和平
