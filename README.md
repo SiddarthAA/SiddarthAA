@@ -4,11 +4,11 @@
 [![Portfolio Badge](https://img.shields.io/badge/-SiddarthAA.github.io-orange?style=flat-square&logo=html5&logoColor=white&link=https://SiddarthAA.github.io)](https://SiddarthAA.github.io)
 
 ## Hi 👋
-I'm Siddartha A Y, I'm a School Student 👨‍💻 who is passionate about mobile technologies and open source. Learning Python And App Dev. Also does Blender 3D and Photoshop.📸 
+I'm Siddartha A Y, I'm a School Student 👨‍💻 who is passionate about mobile technologies and open source. Learning Python And Web Dev. Also does Blender 3D and Photoshop.📸 
 🏄‍♂️. 
 
-- 🔭 I’m currently working on GUI using Python
-- 🌱 I’m currently learning Python
+- 🔭 I’m currently working on Intermediate Projects Using Python And Basic Web Dev
+- 🌱 I’m currently learning Python(Advanced), Full Stack Web, Flutter 
 - 💬 Ask me about: tech, memes, reddit
 - ⚡ Languages: Python, HTML, CSS, JS
 
