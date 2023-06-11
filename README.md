@@ -4,13 +4,6 @@
 [![Portfolio Badge](https://img.shields.io/badge/-SiddarthAA.github.io-orange?style=flat-square&logo=html5&logoColor=white&link=https://SiddarthAA.github.io)](https://github.com/SiddarthAA)
 
 ## Hi 👋
-I'm Siddartha A Y, I'm a School Student 👨‍💻 who is passionate about ML and AI technologies and open source. Learning Python And Web Dev. Also does Blender 3D and Photoshop.📸 
-🏄‍♂️. 
-
-- 🔭 I’m currently working on Intermediate Projects Using Python And Basic Web Dev
-- 🌱 I’m currently learning Python(Intermediate), Web Dev, Machine Learning Using Python
-- 💬 Ask me about: tech, memes, reddit
-- ⚡ Languages: Python, HTML, CSS, JS
-
+I'm Siddartha A Y, I'm a College Student 👨‍💻 who is passionate about Programming and AI/ML technologies and open source. Learning Python And AI/ML Using Python 🏄‍♂️. 
 
 > :D
