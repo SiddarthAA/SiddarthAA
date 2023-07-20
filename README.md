@@ -4,6 +4,11 @@
 [![Portfolio Badge](https://img.shields.io/badge/-SiddarthAA.github.io-orange?style=flat-square&logo=html5&logoColor=white&link=https://SiddarthAA.github.io)](https://github.com/SiddarthAA)
 
 ## Hi 👋
-I'm Siddartha A Y, I'm a College Student 👨‍💻 who is passionate about Programming and AI/ML technologies and open source. Learning Python And AI/ML Using Python 🏄‍♂️. 
+I'm Siddartha A Y, I'm a College Student at PES University Bangalore , India 👨‍💻 And an coding / programming enthusiast :3
+Learning ❗
+    -Python Programming
+    -Artificial Intelligence And Machine Learning Technologies 
+    -Generative AI (Usin LLM's)
+    
 
 > :D
