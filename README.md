@@ -6,9 +6,11 @@
 ## Hi 👋
 I'm Siddartha A Y, I'm a College Student at PES University Bangalore , India 👨‍💻 And an coding / programming enthusiast :3
 Learning ❗
-    -Python Programming
-    -Artificial Intelligence And Machine Learning Technologies 
-    -Generative AI (Usin LLM's)
+    
+    
+-Python Programming
+-Artificial Intelligence And Machine Learning Technologies 
+-Generative AI (Usin LLM's)
     
 
 > :D
