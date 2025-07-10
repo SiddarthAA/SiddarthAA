@@ -11,43 +11,31 @@
 
 ### 🔬 Current Focus
 
-- Developing **foundational models for Indian satellite imagery** — pretraining architectures tailored to geospatial data for downstream tasks such as land cover classification, change detection, and segmentation.  
-  [View Project Repository](https://github.com/SiddarthAA)
+- Developing **foundational models for Indian satellite imagery** — pretraining architectures tailored to geospatial data for downstream tasks like land cover classification, change detection, and segmentation.  
+  [View Project Repository!](https://github.com/SiddarthAA)
 
-- Deepening my understanding of **Docker, MLOps, and the mathematical foundations of deep learning**.
-
----
-
-### 🤝 Open to Collaborations
-
-I'm actively seeking to collaborate on **open-source projects** across:
-- Computer Vision
-- Machine Learning
-- Natural Language Processing
-- Generative AI
-- Data Analysis
-
-With an emphasis on:
-- **End-to-end ML systems**
-- **Production-ready inference pipelines**
-- **Real-time deployment of models**
+- Exploring **Docker, MLOps**, and the **mathematical foundations of deep learning**.
 
 ---
 
-### 💡 Technical Interests
+### 🚀 What I Work On
 
-- Machine learning pipelines & infrastructure
-- Model optimization & evaluation
-- Deep learning architecture design (especially with PyTorch)
-- Computer vision deployment in resource-constrained environments
-- Applied AI for high-impact domains
+I'm passionate about building and deploying **end-to-end ML solutions** — from model development to real-time inference.
+
+My focus areas include:
+- Scalable pipelines for **Computer Vision**, **NLP**, and **Generative AI**
+- **Model evaluation**, fine-tuning, and real-world robustness
+- Optimizing deployment for **resource-constrained systems**
+- Designing production-grade architectures using **PyTorch**, **Docker**, and cloud-native tools
+
+I'm open to **collaborations** on meaningful open-source projects involving **applied AI**, **data-driven systems**, or **research prototypes**!
 
 ---
 
 ### 📫 Connect with Me
 
 - Email: **siddartha_ay@protonmail.com**
-- Resume: [Click To Open!](https://drive.google.com/file/d/1IkIHuwMfhmvM03rcVjPbMxXswfNL_bSs/view?usp=sharing)
+- Resume: [Click Here To View!](https://drive.google.com/file/d/1IkIHuwMfhmvM03rcVjPbMxXswfNL_bSs/view?usp=sharing)
 
 <p align="left">
   <a href="https://linkedin.com/in/siddarthaay" target="_blank">
