@@ -2,9 +2,7 @@
 <h3 align="center">Computer Science undergraduate with a focus on Artificial Intelligence, Machine Learning, and Computer Vision — building scalable, real-world systems through research-driven development and hands-on experimentation.</h3>
 
 <p align="center">
-  <a href="https://github-profile-trophy.vercel.app/?username=siddarthaa">
-    <img src="https://github-profile-trophy.vercel.app/?username=siddarthaa&theme=gruvbox&margin-w=10&margin-h=10" alt="Trophies" />
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=siddarthaa&theme=gruvbox&margin-w=10&margin-h=10&no-bg=true" alt="GitHub Trophies" />
 </p>
 
 ---
