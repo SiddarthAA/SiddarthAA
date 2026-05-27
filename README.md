@@ -31,7 +31,7 @@ urban traffic dataset at IISc — all before graduating.
 <table width="100%">
   <tr>
     <td width="60%"><b>Founding Engineer</b> — The College App</td>
-    <td align="right"><code>Mar 2026 – Present</code></td>
+    <td align="right"><code>Mar 2026 – Jun 2026</code></td>
   </tr>
   <tr>
     <td width="60%"><b>AI Systems Engineer</b> — Cyient</td>
